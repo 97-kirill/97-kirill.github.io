@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+My name is Kirill Zvenyatskovskiy. I am a Data Scientist who likes to learn the wrold through data. 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My interests are sports, music and learning languages. Thank you for visiting!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zven.kirill@gmail.com](mailto:zven.kirill@gmail.com)
